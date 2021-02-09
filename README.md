@@ -40,3 +40,18 @@ npm run build
 ```
 
 Production files will be placed in the `dist` folder. Then upload those files to a web server. 🎉
+
+## Project Structure
+
+```
+    .
+    ├── dist
+    ├── node_modules
+    ├── public
+    ├── src
+    │   ├── scenes
+    │   │   ├── HelloWorldScene.ts
+    │   ├── index.html
+    │   ├── main.ts
+    ├── package.json
+```
